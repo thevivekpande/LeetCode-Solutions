@@ -15,5 +15,5 @@ Binary Tree  | [click](./BinaryTree/README.md)
 Binary Search Tree | [click](./BinarySearchTree/README.md)
 Graph | [click](./Graph/README.md)
 Dynamic Programming | [click](./DynamicProgramming/README.md)
-
+Design | [click](./Design/README.md)
 
