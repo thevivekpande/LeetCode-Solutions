@@ -1,2 +1,2 @@
-Question | Solution
-------------- | -------------
+Leetcode Sr. No. | Question | Solution
+-------------|------------- | -------------
