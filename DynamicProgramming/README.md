@@ -13,3 +13,4 @@ Leetcode Sr. No. | Question | Solution
 ### Hard
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [click](./Solutions/EditDistance.java)

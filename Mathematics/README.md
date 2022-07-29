@@ -6,6 +6,7 @@ Leetcode Sr. No. | Question | Solution
 ### Medium
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+16 | [Roman To Integer](https://leetcode.com/problems/integer-to-roman/) | [click](./Solutions/RomanToInteger.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
