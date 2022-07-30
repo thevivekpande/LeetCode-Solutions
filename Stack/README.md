@@ -6,6 +6,7 @@ Leetcode Sr. No. | Question | Solution
 ### Medium
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [click](./Solutions/MinStack.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
