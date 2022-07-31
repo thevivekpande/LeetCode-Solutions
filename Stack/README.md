@@ -7,6 +7,7 @@ Leetcode Sr. No. | Question | Solution
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [click](./Solutions/MinStack.java)
+735 | [Asteroids Collision](https://leetcode.com/problems/asteroid-collision/) | [click](./Solutions/AsteroidsCollision.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
