@@ -2,6 +2,7 @@
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 232 | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](./Solutions/ImplementQueueUsingStacks.java)
+844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [click](./Solutions/BackSpaceStringCompare.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution

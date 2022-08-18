@@ -9,6 +9,7 @@ Leetcode Sr. No. | Question | Solution
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 19 | [RemoveNthNodeFromEndOfList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [click](./Solutions/RemoveNthNodeFromEndOfList.java)
+82 | [Remove Duplicates from sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [click](./Solutions/RemoveDuplicatesFromSortedListII.java)
 1472  | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [click](./Solutions/DesignBrowserHistory.java)
 
 ### Hard
