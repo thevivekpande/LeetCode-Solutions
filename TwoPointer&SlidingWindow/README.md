@@ -19,6 +19,9 @@ Leetcode Sr. No. | Question | Solution
 167 | [Two Sum II (sorted array)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](./Solutions/TwoSumII.java)
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [click](./Solutions/RemoveDuplicatesFromSortedListII.java)
 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [click](./Solutions/IntervalListIntersections.java)
+438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [click](./Solutions/FindAllAnagramsInString.java)
+713 | [Subarray Product Less than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [click](./Solutions/SubarrayProductLessThanK.java)
+209 | [Minimum Size subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [click](./Solutions/MinimumSizeSubarraySum.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution

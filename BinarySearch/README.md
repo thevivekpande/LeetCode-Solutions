@@ -3,7 +3,7 @@ Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [click](./Solutions/BinarySearch.java)
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [click](./Solutions/FirstBadVersion.java)
-
+572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [click](./Solutions/SubtreeOfAnotherTree.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution
