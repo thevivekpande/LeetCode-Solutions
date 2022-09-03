@@ -1,21 +1,21 @@
 ## Index
 
-Topic | Folder Path
-------------- | -------------
-Mathematics | [click](./Mathematics/README.md)
-Arrays  | [click](./Arrays/README.md)
-String  | [click](./String/README.md)
-Binary Search | [click](./BinarySearch/README.md)
-2 Pointer & Sliding Window  | [click](./TwoPointer%26SlidingWindow/README.md)
-Recursion & Backtracking | [click](./Recursion%26BackTracking/README.md)
-LinkedList  | [click](./LinkedList/README.md)
-Stack  | [click](./Stack/README.md)
-Queue  | [click](./Queue/README.md)
-BFS | [click](./BFS/README.md)
-DFS | [click](./DFS/README.md)
-Binary Tree  | [click](./BinaryTree/README.md)
-Binary Search Tree | [click](./BinarySearchTree/README.md)
-Graph | [click](./Graph/README.md)
-Dynamic Programming | [click](./DynamicProgramming/README.md)
-Design | [click](./Design/README.md)
+Sr.No. |Topic | Folder Path
+------------- | ------------- | -------------
+01 | Mathematics | [click](./Mathematics/README.md)
+02 | Arrays  | [click](./Arrays/README.md)
+03 | String  | [click](./String/README.md)
+04 | Binary Search | [click](./BinarySearch/README.md)
+05 | 2 Pointer & Sliding Window  | [click](./TwoPointer%26SlidingWindow/README.md)
+06 | Recursion & Backtracking | [click](./Recursion%26BackTracking/README.md)
+07 | LinkedList  | [click](./LinkedList/README.md)
+08 | Stack  | [click](./Stack/README.md)
+09 | Queue  | [click](./Queue/README.md)
+10 | BFS | [click](./BFS/README.md)
+11 | DFS | [click](./DFS/README.md)
+12 | Binary Tree  | [click](./BinaryTree/README.md)
+13 | Binary Search Tree | [click](./BinarySearchTree/README.md)
+14 | Graph | [click](./Graph/README.md)
+15 | Dynamic Programming | [click](./DynamicProgramming/README.md)
+16 | Design | [click](./Design/README.md)
 
