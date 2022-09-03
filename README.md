@@ -18,4 +18,5 @@ Sr.No. |Topic | Folder Path
 14 | Graph | [click](./Solutions/Graph/README.md)
 15 | Dynamic Programming | [click](./Solutions/DynamicProgramming/README.md)
 16 | Design | [click](./Solutions/Design/README.md)
+17 | Bit Manipulation | [click](./Solutions/BitManipulation/README.md)
 

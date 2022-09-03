@@ -18,6 +18,8 @@ Leetcode Sr. No. | Question | Solution
 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [click](./Solutions/ArithmeticSlices.java)
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [click](./Solutions/WordBreak.java)
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [click](./Solutions/DecodeWays.java)
+1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [click](./Solutions/LongestCommonSubsequence.java)
+583 | [Delete Operations for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [click](./Solutions/DeleteOperationsForTwoStrings.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
