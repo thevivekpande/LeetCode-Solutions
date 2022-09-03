@@ -11,6 +11,7 @@ Leetcode Sr. No. | Question | Solution
 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [click](./Solutions/ZigZagConversion.java)
 3 | [Longest Substring Without Repeating Character](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [click](./Solutions/LongestSubstringWithoutRepeatingCharacter.java)
 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [click](./Solutions/WordSubsets.java)
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [click](./Solutions/LongestPalindromicSubstring.java) 
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
