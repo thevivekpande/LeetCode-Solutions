@@ -1,4 +1,4 @@
-## LeetCode-Solutions
+## Index
 
 Topic | Folder Path
 ------------- | -------------
