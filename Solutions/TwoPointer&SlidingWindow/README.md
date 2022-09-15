@@ -22,6 +22,7 @@ Leetcode Sr. No. | Question | Solution
 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [click](./Solutions/FindAllAnagramsInString.java)
 713 | [Subarray Product Less than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [click](./Solutions/SubarrayProductLessThanK.java)
 209 | [Minimum Size subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [click](./Solutions/MinimumSizeSubarraySum.java)
+1838 | [Frequency Of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [click](./Solutions/FrequencyOfTheMostFrequentElement.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution

@@ -3,6 +3,7 @@ Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 12 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [click](./Solutions/LongestCommonPrefix.java)
 205 | [Isomorphic String](https://leetcode.com/problems/isomorphic-strings/) | [click](./Solutions/IsomorphicString.java)
+1309 | [Decrypt String](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [click](./Solutions/DecryptString.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution

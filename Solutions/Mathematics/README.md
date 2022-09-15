@@ -2,6 +2,7 @@
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [click](./Solutions/HappyNumber.java)
+1588 | [Sum of Odd Length SubArrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [click](./Solutions/SumOfAllOddLengthSubstring.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution
