@@ -4,6 +4,7 @@ Leetcode Sr. No. | Question | Solution
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [click](./Solutions/ContainsDuplicate2.java)
 448 | [Find All numbers disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [click](./Solutions/FindAllNumbersDisappearedInArray.java)
 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [click](./Solutions/MatrixDiagonalSum.java)
+1356 | [Sort Integers by no of Set Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [click](./Solutions/SortIntegersByNumberOfSetBits.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution
@@ -22,3 +23,4 @@ Leetcode Sr. No. | Question | Solution
 ### Hard
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [click](./Solutions/ReversePairs.java)

@@ -2,6 +2,7 @@
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
 232 | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](./Solutions/ImplementQueueUsingStack.java)
+1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/)|[click](./Solutions/DesignParkingSystems.java)
 
 ### Medium
 Leetcode Sr. No. | Question | Solution
