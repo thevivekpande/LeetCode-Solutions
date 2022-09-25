@@ -23,7 +23,16 @@ Leetcode Sr. No. | Question | Solution
 713 | [Subarray Product Less than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [click](./Solutions/SubarrayProductLessThanK.java)
 209 | [Minimum Size subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [click](./Solutions/MinimumSizeSubarraySum.java)
 1838 | [Frequency Of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [click](./Solutions/FrequencyOfTheMostFrequentElement.java)
+1004 | [Maximum Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [click](./Solutions/)
+904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [click](./Solutions/FruitIntoBaskets.java)
+424 |[Longest Repeating Character Replacements](https://leetcode.com/problems/longest-repeating-character-replacement/)|[click](./Solutions/LongestRepeatingCharacterReplacements.java)
+930 | [Binary Subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[click](./Solutions/BinarySubarraysWithSum.java) 
+1248 | [Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[click](./Solutions/NumberOfNiceSubarrays.java)
+1358 | [Substrings Containing all 3 Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[click](./Solutions/SubstringsWithAll3Characters.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+01 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [click](./Solutions/TraipingRainWater.java)
+2302 | [Count Subarrays with Sum less than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)|[click](./Solutions/CountSubarraysWithScoreLessThanK.java)
+992 | [Subarrays with K different Elements](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[click](./Solutions/SubarraysWithKDifferentIntegers.java)
