@@ -29,6 +29,7 @@ Leetcode Sr. No. | Question | Solution
 930 | [Binary Subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[click](./Solutions/BinarySubarraysWithSum.java) 
 1248 | [Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[click](./Solutions/NumberOfNiceSubarrays.java)
 1358 | [Substrings Containing all 3 Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|[click](./Solutions/SubstringsWithAll3Characters.java)
+1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [click](./Solutions/MinimumTimeToMakeRopeColorful.java)
 
 ### Hard
 Leetcode Sr. No. | Question | Solution
