@@ -11,7 +11,9 @@ Leetcode Sr. No. | Question | Solution
 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [click](./Solutions/ImplementTrie.java)
 211 | [Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [click](./Solutions/DesignAddAndSearchWordDataStructure.java)
 1472  | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [click](./Solutions/DesignBrowserHistory.java)
+981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[click](./Solutions/TimeBasedKeyValueStore.java)
  
 ### Hard
 Leetcode Sr. No. | Question | Solution
 -------------|------------- | -------------
+732 | [My Calander III](https://leetcode.com/problems/my-calendar-iii/) | [click](./Solutions/MyCalanderIII.java)
